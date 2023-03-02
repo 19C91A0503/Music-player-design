@@ -1,2 +1,2 @@
 # Music-player-design
-This a design for music player app using Figma
+I designed an attractive music player app UI using Figma
